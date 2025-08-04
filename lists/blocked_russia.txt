@@ -1,0 +1,198 @@
+# Заблокированные в России сервисы - Ultimate список 2025
+# Обновлено: Август 2025
+
+# === СОЦИАЛЬНЫЕ СЕТИ ===
+
+# Discord (все домены и поддомены)
+discord.com
+discordapp.com
+discordapp.net
+discord.gg
+discord.co
+discord.media
+discordcdn.com
+discordstatus.com
+gateway.discord.gg
+cdn.discordapp.com
+media.discordapp.net
+
+# Twitter/X (полный список)
+twitter.com
+x.com
+t.co
+twimg.com
+abs.twimg.com
+pbs.twimg.com
+video.twimg.com
+ton.twitter.com
+api.twitter.com
+mobile.twitter.com
+
+# Instagram и Facebook (Meta - все сервисы)
+instagram.com
+facebook.com
+fb.com
+fbcdn.net
+fbsbx.com
+messenger.com
+whatsapp.com
+whatsapp.net
+meta.com
+facebook.net
+connect.facebook.net
+graph.facebook.com
+scontent.xx.fbcdn.net
+
+# LinkedIn (профессиональные сети)
+linkedin.com
+licdn.com
+lynda.com
+slideshare.net
+
+# TikTok (полная экосистема)
+tiktok.com
+tiktokcdn.com
+byteoversea.com
+musically.com
+tiktokv.com
+bytedance.com
+
+# === ВИДЕОХОСТИНГИ ===
+
+# YouTube и Google Video (расширенный список)
+youtube.com
+youtu.be
+youtubei.googleapis.com
+youtube-nocookie.com
+ytimg.com
+googlevideo.com
+gstatic.com
+googleapis.com
+googleusercontent.com
+ggpht.com
+gvt1.com
+google.ru
+google.com
+googleadservices.com
+googletagmanager.com
+
+# Twitch (стриминговые платформы)
+twitch.tv
+twitchcdn.net
+jtvnw.net
+ttvnw.net
+ext-twitch.tv
+
+# Другие видеосервисы
+vimeo.com
+dailymotion.com
+rumble.com
+bitchute.com
+
+# === МЕССЕНДЖЕРЫ ===
+
+# Telegram (веб-версии)
+web.telegram.org
+webk.telegram.org
+webz.telegram.org
+
+# Signal и другие
+signal.org
+threema.ch
+wire.com
+
+# === МЕДИА И НОВОСТИ ===
+
+# Зарубежные новостные сайты
+bbc.com
+cnn.com
+reuters.com
+bloomberg.com
+wsj.com
+nytimes.com
+washingtonpost.com
+theguardian.com
+dw.com
+
+# Радио и подкасты
+soundcloud.com
+sndcdn.com
+soundcloud.cloud
+spotify.com
+deezer.com
+pandora.com
+
+# === IT И РАЗРАБОТКА ===
+
+# Платформы разработки
+github.com
+gitlab.com
+bitbucket.org
+stackoverflow.com
+stackexchange.com
+
+# Облачные сервисы
+dropbox.com
+box.com
+onedrive.live.com
+
+# === РАЗВЛЕЧЕНИЯ ===
+
+# Игровые платформы
+steam-chat.com
+discord.gg
+twitch.tv
+
+# Контент платформы
+reddit.com
+imgur.com
+tumblr.com
+pinterest.com
+flickr.com
+
+# === ОБРАЗОВАНИЕ ===
+
+# Онлайн курсы
+coursera.org
+udemy.com
+edx.org
+khanacademy.org
+
+# === VPN И ПРОКСИ СЕРВИСЫ ===
+
+# Популярные VPN
+protonvpn.com
+nordvpn.com
+expressvpn.com
+surfshark.com
+cyberghostvpn.com
+
+# === ДОПОЛНИТЕЛЬНЫЕ ДОМЕНЫ 2025 ===
+
+# Новые заблокированные домены
+medium.com
+substack.com
+patreon.com
+onlyfans.com
+chatgpt.com
+openai.com
+anthropic.com
+claude.ai
+
+# Облачные CDN
+cloudflare.com
+fastly.com
+jsdelivr.net
+cdnjs.cloudflare.com
+
+# === РЕГИОНАЛЬНЫЕ БЛОКИРОВКИ ===
+
+# Украинские ресурсы
+pravda.com.ua
+kyivpost.com
+unian.ua
+
+# Другие региональные сайты
+meduza.io
+currenttime.tv
+svoboda.org
