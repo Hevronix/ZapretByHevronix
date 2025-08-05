@@ -1,21 +1,37 @@
-MIT License
+MIT лицензия с дополнительными условиями
 
-Copyright (c) 2025 Max24232
+Настоящим предоставляется разрешение любому лицу, получившему копию настоящего программного обеспечения и сопутствующих файлов документации ("Программное обеспечение"), использовать Программное обеспечение без ограничений, включая неограниченные права на использование, копирование, изменение, слияние, публикацию, распространение, сублицензирование и/или продажу копий, при соблюдении следующих условий:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Дополнительные условия:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+- Использование, копирование, модификация и распространение разрешены только с явного разрешения оригинального создателя — Hevronix.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+- Модифицированные версии ДОЛЖНЫ явно указывать внесённые изменения и однозначно признавать оригинального создателя — Hevronix.
+
+- Любые модифицированные версии при распространении обязаны дополнительно явно указывать имя (ник) создателя программы — Hevronix.
+
+- Распространение модифицированных или немодифицированных версий БЕЗ явного разрешения создателя — Hevronix ЗАПРЕЩЕНО.
+
+- Все производные работы ДОЛЖНЫ сохранять оригинальный файл LICENSE и ссылку на данный репозиторий.
+
+- Автор — Hevronix, оставляет за собой право требовать удаления любой версии, нарушающей эти условия.
+
+---
+
+MIT License with Additional Terms
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following conditions:
+
+Additional Terms:
+
+- Use, copy, modify and distribute is permitted only with the explicit permission of the original creator — Hevronix.
+
+- Modified versions MUST clearly state the changes made and explicitly acknowledge the original creator — Hevronix.
+
+- Any modified version distributed MUST additionally specify the name (handle) of the creator — Hevronix.
+
+- Distribution of modified or unmodified versions WITHOUT explicit permission of the creator — Hevronix is prohibited.
+
+- All derivative works MUST retain the original LICENSE file and link to this repository.
+
+- The author — Hevronix, reserves the right to request removal of any version violating these terms.
